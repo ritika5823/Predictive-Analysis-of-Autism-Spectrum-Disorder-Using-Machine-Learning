@@ -1,0 +1,2 @@
+# Predictive-Analysis-of-Autism-Spectrum-Disorder-Using-Machine-Learning
+The proposed ASDTransformerModel accurately predicts Autism Spectrum Disorder risk levels with 0.96 accuracy using behavioral screening data. SHAP-based interpretability improves transparency by identifying key indicators such as total_A_score, making the system reliable, scalable, and clinically relevant for early ASD detection.
